@@ -1,0 +1,6 @@
+{
+  "name": "دوز داروهای اطفال",
+  "description": "جستجوی سریع دوز داروهای اطفال به ازای هر کیلوگرم وزن و فرم‌های دارویی موجود",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
